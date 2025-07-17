@@ -28,7 +28,8 @@
   interHunkContext = 10
 
 [interactive]
-  singlekey = tru
+  singlekey = true
+
 [push]
   autoSetupRemote = true
   default = current
